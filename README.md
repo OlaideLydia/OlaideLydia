@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OlaideLydia
 - 👀 I’m interested in ...Artificial Intelligence
-- 🌱 I’m currently learning ... AiCE
+- 🌱 I’m currently learning ... AiCE on ALX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...Ibuoyeolaideoo@gmail.com
 - 😄 Pronouns: ...She/Her
