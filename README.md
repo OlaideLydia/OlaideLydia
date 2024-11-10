@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @OlaideLydia
-- 👀 I’m interested in ...Artificial Intelligence
-- 🌱 I’m currently learning ... AiCE on ALX
+- 👀 I’m interested in Cloud Engineering, DevOps, Cybersecurity, Artificial Intelligence
+- 🌱 I’m currently learning Cloud Engineering 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Ibuoyeolaideoo@gmail.com
-- 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I love watching movies
+- 📫 How to reach me @Ibuoyeolaideoo@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love watching movies
 
 <!---
 OlaideLydia/OlaideLydia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
